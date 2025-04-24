@@ -1,0 +1,402 @@
+[
+  {
+    "customerId": "CUST1001",
+    "name": "Aarav Sharma",
+    "monthlyIncome": 6200,
+    "monthlyExpenses": 3500,
+    "creditScore": 710,
+    "outstandingLoans": 15000,
+    "loanRepaymentHistory": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 12500,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1002",
+    "name": "Ravi Patel",
+    "monthlyIncome": 4800,
+    "monthlyExpenses": 2800,
+    "creditScore": 640,
+    "outstandingLoans": 20000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "accountBalance": 7300,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1003",
+    "name": "Rahul Kumar",
+    "monthlyIncome": 7500,
+    "monthlyExpenses": 4000,
+    "creditScore": 780,
+    "outstandingLoans": 5000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 20000,
+    "status": "Rejected"
+  },
+  {
+    "customerId": "CUST1004",
+    "name": "Priya Verma",
+    "monthlyIncome": 5500,
+    "monthlyExpenses": 3200,
+    "creditScore": 590,
+    "outstandingLoans": 17000,
+    "loanRepaymentHistory": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0
+    ],
+    "accountBalance": 4200,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1005",
+    "name": "Neha Iyer",
+    "monthlyIncome": 6800,
+    "monthlyExpenses": 3700,
+    "creditScore": 660,
+    "outstandingLoans": 10000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 9500,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1006",
+    "name": "Vikram Singh",
+    "monthlyIncome": 4900,
+    "monthlyExpenses": 3100,
+    "creditScore": 720,
+    "outstandingLoans": 12000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "accountBalance": 11200,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1007",
+    "name": "Kiran Reddy",
+    "monthlyIncome": 8300,
+    "monthlyExpenses": 4500,
+    "creditScore": 780,
+    "outstandingLoans": 5000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 18000,
+    "status": "Rejected"
+  },
+  {
+    "customerId": "CUST1008",
+    "name": "Sita Gupta",
+    "monthlyIncome": 4600,
+    "monthlyExpenses": 2900,
+    "creditScore": 590,
+    "outstandingLoans": 17000,
+    "loanRepaymentHistory": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "accountBalance": 3000,
+    "status": "Rejected"
+  },
+  {
+    "customerId": "CUST1009",
+    "name": "Anjali Mehta",
+    "monthlyIncome": 5600,
+    "monthlyExpenses": 3400,
+    "creditScore": 650,
+    "outstandingLoans": 19000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 8900,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1010",
+    "name": "Arvind Joshi",
+    "monthlyIncome": 7100,
+    "monthlyExpenses": 4000,
+    "creditScore": 610,
+    "outstandingLoans": 16000,
+    "loanRepaymentHistory": [
+      0,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "accountBalance": 7600,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1011",
+    "name": "Sandeep Sharma",
+    "monthlyIncome": 6900,
+    "monthlyExpenses": 3700,
+    "creditScore": 675,
+    "outstandingLoans": 14000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "accountBalance": 10300,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1012",
+    "name": "Neeraj Yadav",
+    "monthlyIncome": 5200,
+    "monthlyExpenses": 3100,
+    "creditScore": 640,
+    "outstandingLoans": 15500,
+    "loanRepaymentHistory": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      1
+    ],
+    "accountBalance": 6500,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1013",
+    "name": "Manisha Patel",
+    "monthlyIncome": 7700,
+    "monthlyExpenses": 4300,
+    "creditScore": 760,
+    "outstandingLoans": 9000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "accountBalance": 15400,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1014",
+    "name": "Ravi Tiwari",
+    "monthlyIncome": 5000,
+    "monthlyExpenses": 2900,
+    "creditScore": 605,
+    "outstandingLoans": 21000,
+    "loanRepaymentHistory": [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    "accountBalance": 5400,
+    "status": "Rejected"
+  },
+  {
+    "customerId": "CUST1015",
+    "name": "Priya Saini",
+    "monthlyIncome": 6900,
+    "monthlyExpenses": 3800,
+    "creditScore": 700,
+    "outstandingLoans": 16000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 9400,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1016",
+    "name": "Karan Kumar",
+    "monthlyIncome": 6100,
+    "monthlyExpenses": 3600,
+    "creditScore": 650,
+    "outstandingLoans": 18000,
+    "loanRepaymentHistory": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "accountBalance": 8200,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1017",
+    "name": "Suresh Reddy",
+    "monthlyIncome": 6400,
+    "monthlyExpenses": 3700,
+    "creditScore": 670,
+    "outstandingLoans": 17000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 10400,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1018",
+    "name": "Aditi Mehra",
+    "monthlyIncome": 7000,
+    "monthlyExpenses": 4000,
+    "creditScore": 720,
+    "outstandingLoans": 13000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1
+    ],
+    "accountBalance": 11700,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1019",
+    "name": "Ankur Singh",
+    "monthlyIncome": 5300,
+    "monthlyExpenses": 3000,
+    "creditScore": 590,
+    "outstandingLoans": 19500,
+    "loanRepaymentHistory": [
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1,
+      0
+    ],
+    "accountBalance": 6200,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1020",
+    "name": "Tanya Sharma",
+    "monthlyIncome": 6800,
+    "monthlyExpenses": 3600,
+    "creditScore": 750,
+    "outstandingLoans": 10000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 14200,
+    "status": "Approved"
+  }
+]
